@@ -1,0 +1,27 @@
+.top {
+width: 100%;
+display: flex;
+justify-content: center;
+
+}
+.logo {
+    width: 155px;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    color: #4a4a4a;
+
+}
+.principal {
+    background-color: #3CDBC0;
+    font-family: 'Rubik', sans-serif;
+    display: block;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+
+
+}
